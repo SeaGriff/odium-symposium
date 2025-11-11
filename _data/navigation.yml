@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Listen
+  link: /listen.html
+- name: About the Hosts and Contact
+  link: /aboutthehosts.html
