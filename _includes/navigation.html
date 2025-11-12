@@ -1,7 +1,7 @@
 <nav>
-    <center><p><img src="assets/images/ODIUM_SYMPOSIUM_LOGO.jpg" alt="Odium Symposium Logo" style="height:35em;width:35em"></p></center>
+    <center><p><img src="assets/images/ODIUM_SYMPOSIUM_LOGO.jpg" alt="Odium Symposium Logo" style="height:45em;width:45em"></p></center>
     
     <center><p>{% for item in site.data.navigation %}
-        <a style="margin: 2em; font-size: 2em;" href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
+        <a style="margin: 1em; font-size: 2em;" href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
     {% endfor %} </p> </center>
 </nav>
