@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel>
+    <title>Odium Symposium</title>
+    <description><![CDATA[<p>Two women's quest to understand the reproduction of bigotry, through history's eye-popping examples.</p>]]></description>
+    <generator>Zencastr, Inc</generator>
+    <atom:link href="https://feeds.zencastr.com/f/-mzEK14C.rss" rel="self" type="application/rss+xml"/>
+    <link>https://zencastr.com/Odium-Symposium</link>
+    <docs>https://zencastr.com/Odium-Symposium</docs>
+    <language>en</language>
+    <pubDate>Mon, 29 Sep 2025 22:26:54 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2025 04:39:59 GMT</lastBuildDate>
+    <itunes:author>Odium Symposium</itunes:author>
+    <itunes:summary><![CDATA[Two women's quest to understand the reproduction of bigotry, through history's eye-popping examples.]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:image href="https://media.zencastr.com/image-files/68db077af012f46db67468bf/16abfa03-62e3-4458-ad58-2a173ea06438.jpeg"/>
+    <image>
+      <url>https://media.zencastr.com/image-files/68db077af012f46db67468bf/16abfa03-62e3-4458-ad58-2a173ea06438.jpeg</url>
+      <link>https://zencastr.com/Odium-Symposium</link>
+      <title>Odium Symposium</title>
+    </image>
+    <itunes:new-feed-url>https://feeds.zencastr.com/f/-mzEK14C.rss</itunes:new-feed-url>
+    <itunes:owner>
+      <itunes:name>Odium Symposium</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Comedy"/>
+    <itunes:category text="Education"/>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <item>
+      <title>Pilot - The Misogynist Question</title>
+      <link>https://zencastr.com/z/LxpRGN8w</link>
+      <itunes:title>Pilot - The Misogynist Question</itunes:title>
+      <itunes:summary>Our first episode! Just in time for Charlie Kirk remembrance day eve!
+
+Sarah introduces Helen to obscure Canadian luminary Stephen Leacock, and we learn all about how and why women aren&apos;t funny.
+
+At some point we mention using the famous &quot;triggered feminist&quot; reaction image for our episode art, but we decided against it. If you didn&apos;t recognize it from our description, it&apos;s this one: https://knowyourmeme.com/photos/1872961-triggered-feminist--2
+
+Patreon: https://www.patreon.com/OdiumSymposium
+
+Bluesky: https://bsky.app/profile/odiumsymposium.bsky.social</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Tue, 14 Oct 2025 04:21:59 GMT</pubDate>
+      <itunes:author>Odium Symposium</itunes:author>
+      <enclosure length="168352890" type="audio/mpeg" url="https://redirect.zencastr.com/r/episode/68edcfe70bc89d7ed5936ed8/size/168352890/audio-files/68db077af012f46db67468bf/884eb222-c875-4f02-b3ef-9ccf094ff27c.mp3"/>
+      <description><![CDATA[<p>Our first episode! Just in time for Charlie Kirk remembrance day eve!</p><p>Sarah introduces Helen to obscure Canadian luminary Stephen Leacock, and we learn all about how and why women aren't funny.</p><p>At some point we mention using the famous "triggered feminist" reaction image for our episode art, but we decided against it. If you didn't recognize it from our description, it's this one: <a href="https://knowyourmeme.com/photos/1872961-triggered-feminist--2">https://knowyourmeme.com/photos/1872961-triggered-feminist--2</a></p><p>Patreon: <a href="https://www.patreon.com/OdiumSymposium">https://www.patreon.com/OdiumSymposium</a></p><p>Bluesky: <a href="https://bsky.app/profile/odiumsymposium.bsky.social">https://bsky.app/profile/odiumsymposium.bsky.social</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Our first episode! Just in time for Charlie Kirk remembrance day eve!</p><p>Sarah introduces Helen to obscure Canadian luminary Stephen Leacock, and we learn all about how and why women aren't funny.</p><p>At some point we mention using the famous "triggered feminist" reaction image for our episode art, but we decided against it. If you didn't recognize it from our description, it's this one: <a href="https://knowyourmeme.com/photos/1872961-triggered-feminist--2">https://knowyourmeme.com/photos/1872961-triggered-feminist--2</a></p><p>Patreon: <a href="https://www.patreon.com/OdiumSymposium">https://www.patreon.com/OdiumSymposium</a></p><p>Bluesky: <a href="https://bsky.app/profile/odiumsymposium.bsky.social">https://bsky.app/profile/odiumsymposium.bsky.social</a></p>]]></content:encoded>
+      <guid isPermaLink="false">7f2d6ac6-d020-43af-838a-c3e3de3e32c9</guid>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:image href="https://media.zencastr.com/image-files/68db077af012f46db67468bf/00080fd0-b04a-47f3-be04-0714de19672d.png"/>
+      <itunes:duration>7014</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
